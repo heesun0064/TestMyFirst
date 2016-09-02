@@ -9,6 +9,7 @@ public class MySecondClass {
 		System.out.println("4. white");
 		System.out.println("5. black");
 		System.out.println("6. grey");
+		System.out.println("7. purple");
 	}
 
 }
