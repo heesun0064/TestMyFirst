@@ -1,11 +1,9 @@
 
-public class MyFirstClass {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class MyFirstClass
+{
+	public static void main(String[] args)
+	{
 		System.out.println("Hello world !");
-		
+		System.out.println("===============");
 	}
-
 }
